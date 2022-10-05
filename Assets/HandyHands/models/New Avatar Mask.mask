@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Avatar Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: hand_right
+    m_Weight: 1
+  - m_Path: upperarm_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/index1_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/index1_r/index2_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/index1_r/index2_r/index3_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/middle1_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/middle1_r/middle2_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/middle1_r/middle2_r/middle3_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/pinky1_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/pinky1_r/pinky2_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/pinky1_r/pinky2_r/pinky3_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/pinky1_r/pinky2_r/pinky3_r/pinky4_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/ring1_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/ring1_r/ring2_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/ring1_r/ring2_r/ring3_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/thumb1_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/thumb1_r/thumb2_r
+    m_Weight: 1
+  - m_Path: upperarm_r/lowerarm1_r/lowerarm2_r/lowerarm3_r/hand_r/thumb1_r/thumb2_r/thumb3_r
+    m_Weight: 1
